@@ -15,7 +15,7 @@
         <!--依赖版本-->
         <lombok.version>1.18.10</lombok.version>
         <netty.version>4.1.45.Final</netty.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
 
         <!--插件版本-->
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
